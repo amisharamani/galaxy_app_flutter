@@ -2,6 +2,10 @@
 
 ## Project Objectives :
 
+
+https://github.com/amisharamani/galaxy_app_flutter/assets/130687844/55a1f7cd-1ba1-4f50-b83d-16de4afaca1d
+
+
 - Implicit Animation : The app utilizes Implicit Animation techniques to create smooth and
   visually appealing animations. Implicit animations are seamlessly integrated into various UI
   elements, enhancing the overall user experience and providing a dynamic and engaging interface.
